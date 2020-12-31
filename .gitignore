@@ -1,0 +1,113 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# User-specific stuff
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# Generated files
+.idea/**/contentModel.xml
+
+# Sensitive or high-churn files
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
+
+# Gradle
+.idea/**/gradle.xml
+.idea/**/libraries
+
+# Gradle and Maven with auto-import
+# When using Gradle or Maven with auto-import, you should exclude module files,
+# since they will be recreated, and may cause churn.  Uncomment if using
+# auto-import.
+# .idea/artifacts
+# .idea/compiler.xml
+# .idea/jarRepositories.xml
+# .idea/modules.xml
+# .idea/*.iml
+# .idea/modules
+# *.iml
+# *.ipr
+
+# CMake
+cmake-build-*/
+
+# Mongo Explorer plugin
+.idea/**/mongoSettings.xml
+
+# File-based project format
+*.iws
+
+# IntelliJ
+out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# Cursive Clojure plugin
+.idea/replstate.xml
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+
+# Editor-based Rest Client
+.idea/httpRequests
+
+# Android studio 3.1+ serialized cache file
+.idea/caches/build_file_checksums.ser
+.idea/description.html
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/project-template.xml
+.idea/sonarlint/issuestore/0/f/0f36563f85a7c2acae04b11e442587785b87c330
+.idea/sonarlint/issuestore/1/7/17a7dcdc57c78b5a49c27071033907b9ec820056
+.idea/sonarlint/issuestore/4/d/4d63e57e76e1218598ff354133c70fc0ed12f8bd
+.idea/sonarlint/issuestore/5/c/5c09f5a70a80826b9a1a37607aecaae66637fabb
+.idea/sonarlint/issuestore/6/3/63b6fe86072fa565e92e8184b2166298eaf0bc11
+.idea/sonarlint/issuestore/6/5/65ba8761156920b79fcc23473db37e9ccd4f8100
+.idea/sonarlint/issuestore/7/1/7106f782c1b38bec1062097851fb8a6d1af89770
+.idea/sonarlint/issuestore/8/c/8cba05f2194d0ad4a166af9e6f6fe2e722f58cf0
+.idea/sonarlint/issuestore/a/b/ab1e6b21af94a1df986b424be682bc8435d9660f
+.idea/sonarlint/issuestore/c/2/c27f222c2f704496a62080c2e024aff73430dce7
+.idea/sonarlint/issuestore/c/2/c2a6064eb263ed2a0375d784e281a3f37a35fd68
+.idea/sonarlint/issuestore/c/c/ccc05ea208baf5a597913ab2c69234c967810666
+.idea/sonarlint/issuestore/d/0/d037c36811a431834bdefb6284a77739847b62b1
+.idea/sonarlint/issuestore/e/0/e0db74b32b382f9970a6120068a65233c63b6a35
+.idea/sonarlint/issuestore/index.pb
+.idea/vcs.xml
